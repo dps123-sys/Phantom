@@ -1,0 +1,46 @@
+body
+{
+	background: #B3B3B3;
+	font-size: 150%;
+	margin: 5%;
+}
+h1
+{
+	background: black;
+	font-style: italic;
+	color: white;
+}
+header {
+	text-align: center;
+	padding: 5px;
+
+}
+nav {
+	font-size: 150%;
+	font-family: "Times New Roman";
+	
+
+}
+h2 {
+	color: rgb(1, 1,1);
+	background: blue;
+
+}
+details{
+	font-style: italic;
+}
+summary {
+	font-style: normal;
+}
+footer{
+	background: black;
+	color: white;
+	clear: both;
+}
+section {
+	width: 30%;
+	display: inline-block;
+	float: left;
+	margin-right: 2%;
+
+}

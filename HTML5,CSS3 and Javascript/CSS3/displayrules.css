@@ -1,0 +1,23 @@
+span
+{
+	height: 150px;
+	width: 150px;
+	background: yellow;
+	display: inline-block;
+
+}
+div
+{
+	height: 175px;
+	width: 160px;
+	display: block;
+	background: blue;
+}
+p
+{
+	height: 120px;
+	width: 100px;
+	display: block;
+	background: pink;
+	float: right;
+}

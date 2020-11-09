@@ -1,0 +1,59 @@
+header {
+	border: solid;
+	border-color: black;
+	background: white;
+	border-radius: 15px 15px;
+	text-align: center;
+	padding: 15px 15px 15px 15px;
+}
+h1{
+	font-family: "Times New Roman";
+	font-size: 60px;
+}
+a {
+	text-decoration: none;
+	border: solid;
+	display: inline-block;
+	margin: 15px 15px 15px 15px;
+	padding: 15px 15px 15px 15px;
+	border-color: black;
+    color: black;
+
+}
+a:hover {
+       background:  #666666;
+        border-radius: 25px;
+}
+img {
+    display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 150px;
+	border: 2px solid black;
+}
+.left {
+	background: #b3b3b3;
+	display: inline-block;
+    float: left;
+	width: 20%;
+}
+aside {
+	padding-left: 1%;
+	display: inline-block;
+    float: right;
+	width: 77%;
+	margin-top: 10px;
+    padding-right: 2%
+}
+h2 {
+	text-align: left;
+	font-style: charcoal;
+}
+.para {
+	border: solid;
+	margin-left: 10px;
+	width: 74%;
+	margin-right: 10px;
+}

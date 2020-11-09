@@ -1,0 +1,9 @@
+p {
+	background: blue;
+	color: red;
+    width: 25%;
+	overflow: scroll;
+	font-style: italic;
+	font-weight: bold;
+	
+}

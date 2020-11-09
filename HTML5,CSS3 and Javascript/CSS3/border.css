@@ -1,0 +1,10 @@
+p {
+	border-style: solid;
+	border: 10px,10px,10px,10px;
+	border-color: red;
+	margin: 25px;
+	padding: 25px;
+	height: 150%;
+	width: 50%; 
+	text-align: center;
+}
